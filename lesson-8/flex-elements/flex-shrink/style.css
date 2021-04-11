@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start;
+
+    padding: 20px;
+    height: 500px;
+
+    background-color: coral;
+}
+
+.flex-element {
+    display: block;
+    width: 500px;
+    padding: 20px;
+
+    background-color: lightblue;
+    border: 1px solid red;
+}
+
+.flex-shrink-1 {
+    flex-shrink: 1;
+}
+
+.flex-shrink-2 {
+    flex-shrink: 2;
+}
+
+.flex-shrink-3 {
+    flex-shrink: 3;
+}

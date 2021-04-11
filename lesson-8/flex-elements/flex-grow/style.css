@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start;
+
+    padding: 20px;
+    height: 500px;
+
+    background-color: coral;
+}
+
+.flex-element {
+    display: block;
+
+    padding: 20px;
+
+    background-color: lightblue;
+    border: 1px solid red;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.flex-grow-2 {
+    flex-grow: 2;
+}
+
+.flex-grow-3 {
+    flex-grow: 3;
+}
