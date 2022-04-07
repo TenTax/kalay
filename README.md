@@ -1,3 +1,3 @@
 # учебный проект kalay
 
-рабочий сайт: [tentax.github.io/kalay/](https://tentax.github.io/kalay/)
+рабочий сайт: [kalay.tentax.ru](http://kalay.tentax.ru/)
